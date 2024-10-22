@@ -23,10 +23,10 @@ h2 {
 /* Header Section */
 
 #hero {
-    background-image: url('/assets/images/background.webp');
+    background-image: url('../images/background.webp');
     background-position: 50% 70%;
-    background-color: lightgray;
-    background-repeat: no-repeat;
+    background-color: #dbdcde /* light gray */;
+    background-size: cover;
     min-height: 500px;
     padding: 5% 7%;
 }
